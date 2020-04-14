@@ -1,0 +1,84 @@
+body {
+    background-color:  #F8F8FF;
+    margin:0;
+    padding:0;
+}
+
+h1 {
+    color: gray;
+    padding: 60px;
+}
+
+.navbar ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+  }
+  
+.navbar li {
+    float: left;
+}
+  
+.navbar li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+  
+  /* Change the link color to #111 (black) on hover */
+.navbar li a:hover {
+    background-color: #111;
+}
+  
+.thumb {
+    border-radius: 100%;
+    width: 250px;
+    text-align: center;
+}
+
+
+.footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: black;
+    color: white;
+    text-align: center;
+}
+
+.footer{
+    list-style-type: nome;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+    position: sticky;
+    top: 0;
+}
+
+.footer li {
+    float: left;
+}
+
+.footer li a {
+    display: block;
+    color: whitw;
+    text-align: center;
+    padding: 14px 16 px;
+    text-decoration: name;
+}
+
+.footer li a:hover {
+    background-color: white;
+}
+
+.footer-1 {
+    text-align: right;
+    margin-top: 5px;
+    margin-right: 15px;
+}
