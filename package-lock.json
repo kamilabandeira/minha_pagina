@@ -1,0 +1,19 @@
+{
+  "requires": true,
+  "lockfileVersion": 1,
+  "dependencies": {
+    "bootstrap": {
+      "version": "4.4.1",
+      "resolved": "https://registry.npmjs.org/bootstrap/-/bootstrap-4.4.1.tgz",
+      "integrity": "sha512-tbx5cHubwE6e2ZG7nqM3g/FZ5PQEDMWmMGNrCUBVRPHXTJaH7CBDdsLeu3eCh3B1tzAxTnAbtmrzvWEvT2NNEA=="
+    },
+    "startbootstrap-freelancer": {
+      "version": "6.0.1",
+      "resolved": "https://registry.npmjs.org/startbootstrap-freelancer/-/startbootstrap-freelancer-6.0.1.tgz",
+      "integrity": "sha512-W6U229/9HQPPc6PRPgXglNSUE+YNahYWS0X41u3kHlgZnk4ddPKd2yu+BGzthiA/4gypF5IGtfxUq4RPtUXhmw==",
+      "requires": {
+        "bootstrap": "4.4.1"
+      }
+    }
+  }
+}
